@@ -25,7 +25,7 @@ This repository serves as a complement to the knowledge acquired in the Udemy re
 ## :fire: Create React App
 
 GitHub Repo: https://github.com/facebook/create-react-app
-Install Node: https://nodejs.org/en/
+<p>Install Node: https://nodejs.org/en/</p>
 
 ```bash
 npm install -g create-react-app
@@ -59,4 +59,8 @@ Official doc: https://reactjs.org/docs/composition-vs-inheritance.html
 2. The Person component returns a div with a second p tag element that holds the children content.
 
 ![4](https://user-images.githubusercontent.com/24191107/101200070-b915bc80-365d-11eb-872c-94e6068be87e.png)
+
+
+### State
+
 
