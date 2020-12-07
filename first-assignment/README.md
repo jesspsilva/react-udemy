@@ -25,3 +25,8 @@ npm install
 npm start
 ```
 After this process the `localhost: 3000` page will automatically open in your browser or access <a href="http://127.0.0.1:3000" target="_blank">http://127.0.0.1:3000</a>
+
+## :arrow_right: Preview
+<p align="center">
+<img src="https://user-images.githubusercontent.com/24191107/101395874-7274cc00-38c2-11eb-9911-13aa62ca518f.png" alt="first-assignment"/>
+</p>
