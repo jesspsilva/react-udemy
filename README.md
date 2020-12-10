@@ -61,6 +61,3 @@ Official doc: https://reactjs.org/docs/composition-vs-inheritance.html
 ![4](https://user-images.githubusercontent.com/24191107/101200070-b915bc80-365d-11eb-872c-94e6068be87e.png)
 
 
-### State
-
-
