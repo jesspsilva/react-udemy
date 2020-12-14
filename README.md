@@ -10,6 +10,7 @@ This repository serves as a complement to the knowledge acquired in the Udemy re
 - [Tools](#tools)
 - [Create React App](#createapp)
 - [Dynamic Content With props](#dynamic-content)
+- [Style Components](#style-react-components)
 
 <a id="tools"></a>
 
@@ -48,7 +49,6 @@ Official doc: https://reactjs.org/docs/components-and-props.html
 ![2](https://user-images.githubusercontent.com/24191107/101200063-b74bf900-365d-11eb-91ca-41309ed5c303.png)
 
 
-
 ### Children props
 
 Official doc: https://reactjs.org/docs/composition-vs-inheritance.html
@@ -59,5 +59,17 @@ Official doc: https://reactjs.org/docs/composition-vs-inheritance.html
 2. The Person component returns a div with a second p tag element that holds the children content.
 
 ![4](https://user-images.githubusercontent.com/24191107/101200070-b915bc80-365d-11eb-872c-94e6068be87e.png)
+
+<a id="style-react-components"></a>
+
+## :nail_care: How to style components
+
+There are a few options for styling React components. Some of them are:
+
+1. <a href="https://reactjs.org/docs/dom-elements.html#style" target="_blank">Inline style</a>
+2. <a href="https://create-react-app.dev/docs/adding-a-stylesheet/" target="_blank">CSS Stylesheet</a>
+3. <a href="https://styled-components.com/" target="_blank">Styled-components</a>
+4. <a href="https://github.com/FormidableLabs/radium" target="_blank">Radium</a>
+5. <a href="https://create-react-app.dev/docs/adding-a-css-modules-stylesheet" target="_blank">CSS Modules</a>
 
 
