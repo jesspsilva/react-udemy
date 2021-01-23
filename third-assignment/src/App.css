@@ -1,0 +1,24 @@
+.NavBar {
+    background-color:#748067;
+}
+
+.NavBar ul {
+    list-style: none;
+    margin: 0;
+}
+
+.NavBar li {
+    display: inline-block;
+    margin: 20px;
+}
+
+.NavBar a {
+    text-decoration: none; 
+    color: #0b0a07;
+}
+
+.NavBar a:hover,
+.NavBar a:active,
+.NavBar a.active {
+    color: #e3d87e;
+}
