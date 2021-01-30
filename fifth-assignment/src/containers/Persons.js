@@ -29,12 +29,12 @@ const mapStateToProps = state => {
 
 const mapDispatchToProps = dispatch => {
     return {
-        onPersonAdd: () => dispatch({
+        onPersonAdd: (name, age) => dispatch({
             type: 'ADD',
             newPersons: {
                 id: Math.random(),
-                name: 'Max',
-                age: Math.floor( Math.random() * 40 )
+                name: name,
+                age: age
             }
         }),
         onPersonDelete: (id) => dispatch({

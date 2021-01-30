@@ -2,3 +2,8 @@
     text-align: center;
     margin: 30px;
 }
+
+.AddPerson input {
+    display: block;
+    margin: 20px auto;
+}
